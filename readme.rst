@@ -1,4 +1,4 @@
-Einfuehrung in Glom beim virtuellen Pythoncamp 2020
+Einführung in Glom beim virtuellen Pythoncamp 2020
 ---------------------------------------------------
 
 .. image:: https://mybinder.org/badge_logo.svg
