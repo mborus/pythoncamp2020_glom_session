@@ -11,4 +11,17 @@ https://mybinder.org/v2/gh/mborus/pythoncamp2020_glom_session/master
 
 
 
+Introduction into Glom first held at the virtual Pythoncamp 2020 Cologne
+-------------------------------------------------------------------------
+includes minor updates and better examples.
+
+
+English translation:
+
+https://mybinder.org/v2/gh/mborus/pythoncamp2020_glom_session_english/master
+
+
+
+
+
 
